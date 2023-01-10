@@ -85,9 +85,6 @@
     align-items: center;
     justify-content: center;
 }
-.chek {
-    color: green;
-}
 
 .rodape{
     width: 414px;
@@ -135,7 +132,6 @@
     margin-left: 60px;
     color: #32B72F; 
     opacity: 1;
-
 }
 
 
