@@ -129,6 +129,14 @@
 .selecionado{
     border: 3px solid #32B72F;
 }
+.selecionado ion-icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 60px;
+    color: #32B72F; 
+    opacity: 1;
+
+}
 
 
 
